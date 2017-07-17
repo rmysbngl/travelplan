@@ -1,7 +1,7 @@
 package travelplan;
 
 import java.util.Scanner;
-//değişiklik yapıldı
+//changed version
 
 public class plan {
 
