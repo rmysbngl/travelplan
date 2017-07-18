@@ -3,6 +3,7 @@ package travelplan;
 import java.util.Scanner;
 
 public class denem2 {
+    //değiş please
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
