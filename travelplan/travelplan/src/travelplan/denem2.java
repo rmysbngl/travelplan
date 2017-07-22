@@ -8,7 +8,8 @@ public class denem2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner input= new Scanner (System.in);
-	
+	//meraba rüm 
+		
 	
 		String city;
 		
