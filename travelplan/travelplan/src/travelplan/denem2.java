@@ -10,7 +10,7 @@ public class denem2 {
 		Scanner input= new Scanner (System.in);
 	//meraba rüm 
 		
-	
+	//so much fuuuun
 		String city;
 		
 	   city=input.nextLine();
