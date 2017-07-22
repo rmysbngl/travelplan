@@ -23,6 +23,7 @@ public class denem2 {
 		}
 		
 			}
+        //aldın mı
 		//I changed it ha ha ha
 		for(int t=0; t<n; t++){
 			for(int k=0; k<n; k++){
